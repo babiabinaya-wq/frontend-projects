@@ -1,0 +1,52 @@
+#a{
+   color: black;
+   font-weight: bold;
+   padding-right: 25px;
+   
+}
+#a1{
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#shop{
+    margin-top: 60px;
+
+}
+#footer{
+    background-color: rgb(245, 245, 245);
+    margin-top: 50px;
+}
+#shop1{
+    margin-top: 30px;
+}
+#a7{
+    height: 40px;
+    width: 80%;
+    margin-top: 10px;
+}
+.a2{
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 40px;
+    color: black;
+}
+#new{
+    font-size: 9px;
+    font-weight: bold;
+    color: rgb(245, 7, 46);
+}
+.a6{
+    margin-top: 20px;
+}
+#a3{
+    color: gray;
+}
+#a4{
+    color: gray;
+    margin-top: 50px;
+}
+#a5{
+    color: gray;
+    font-size: 15px;
+}
